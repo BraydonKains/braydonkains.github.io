@@ -13,8 +13,7 @@
       <pubDate>Sat, 13 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://braydonkains.github.io/posts/death-of-for-loop/</guid>
-      <description>Generally introduced to new developers around chapter 4 or 5 of their proverbial Intro to Computer Science books, loops are one of the most fundamental coding constructs a developer learns. The different simple ways we iterate over collections of data are often the core of the most complex applications ever built. This is to dramatically justify the probably-overkill rant I am about to write regarding loops.
-I&amp;rsquo;ll give you my final verdict here early, and you can decide if you can read on without a boiling rage: The standard for loop is so fundamental that it tends to be a coder&amp;rsquo;s first instinct when given a set of data.</description>
+      <description>Generally introduced to new developers around chapter 4 or 5 of their proverbial Intro to Computer Science books, loops are one of the most fundamental coding constructs a developer learns. The different simple ways we iterate over collections of data are often the core of the most complex applications ever built. This is to dramatically justify the probably-overkill rant I am about to write regarding iterating over a collection of data.</description>
     </item>
     
     <item>
