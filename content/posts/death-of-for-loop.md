@@ -263,7 +263,7 @@ func main() {
 		arr,
 		func(value int) int { return value * 2 },
 	)
-	// arr = [2, 4, 6, 8, 10]
+	// twoTimesTable = [2, 4, 6, 8, 10]
 }
 ```
 
