@@ -181,7 +181,7 @@ for (const value of arr) {
 // max = 5
 ```
 
-The name "accumulator" becomes a slight misnomer in this scenario, because rather than being an accumulation of all the values, it is simply the end result we are interested in. Ignoring that, the `reduce` we right is pretty similar to the earlier example:
+The name "accumulator" becomes a slight misnomer in this scenario, because rather than being an accumulation of all the values, it is simply the end result we are interested in. Ignoring that, the `reduce` we write is pretty similar to the earlier example:
 
 ```javascript
 const arr = [1, 2, 5, 4, 3];
